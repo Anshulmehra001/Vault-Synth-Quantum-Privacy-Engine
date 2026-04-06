@@ -276,7 +276,8 @@ This is a research and educational project exploring quantum machine learning co
 
 ## 📧 Contact
 
-**Author:** Aniket Mehra  
+**Author:** Anshul Mehra  
+**Email:** aniketmehra715@gmail.com  
 **GitHub:** [@Anshulmehra001](https://github.com/Anshulmehra001)  
 **Project:** [Vault-Synth-Quantum-Privacy-Engine](https://github.com/Anshulmehra001/Vault-Synth-Quantum-Privacy-Engine)
 
